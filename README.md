@@ -2,7 +2,7 @@
 
 ## Goal
 
-In this project i have learned how to use open source Flutter packages.  I am in  comfortable using Flutter packages and building repeated widgets.
+In this project i have learned how to use open source Flutter packages.  I am in  comfortable using Flutter packages and building repeated widgets
 
 
 ## What I have created
